@@ -22,7 +22,7 @@ page](https://github.com/ionic-team/starters/blob/master/ionic-angular/official/
 for a cool example of a page navigating to itself to provide a different UI
 without duplicating code.
 
-## Table of Contents
+## İçerik Tablosu
 
 1. [Getting Started](#getting-started)
 2. [Pages](#pages)
